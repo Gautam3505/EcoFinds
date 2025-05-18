@@ -7,7 +7,7 @@ EcoFinds is a modern web platform for buying and selling second-hand and eco-fri
 ## 🚀 Tech Stack
 
 - React + Vite
-- Bootstrap 5 (CSS Framework)
+- Tailwind (CSS Framework)
 - Axios (for API calls)
 - React Router DOM (for routing)
 - Node.js + Express + MongoDB (Backend)
