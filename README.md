@@ -1,19 +1,23 @@
-# EcoFinds
+# 🌿 EcoFinds – Sustainable Marketplace
 
-EcoFinds is a sustainable marketplace for buying and selling eco-friendly products.
+EcoFinds is a modern web platform for buying and selling second-hand and eco-friendly products. Built with React and powered by a Node.js + Express + MongoDB backend.
+
+---
 
 ## 🚀 Tech Stack
 
 - React + Vite
-- Tailwind CSS
-- Node.js + Express + MongoDB (backend)
+- Bootstrap 5 (CSS Framework)
+- Axios (for API calls)
+- React Router DOM (for routing)
+- Node.js + Express + MongoDB (Backend)
 
-## 📦 Setup
+---
 
-1. Clone the repository
-2. Navigate to frontend/
-3. Run:
+## 📦 Project Setup
+
+### 1. Clone the repository
 
 ```bash
-npm install
-npm run dev
+git clone https://github.com/yourusername/ecofinds.git
+cd ecofinds/frontend
